@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = Ahmed Rasheed
 Ahmed Rasheed
-Software Development Engineer
+Software Development
 
 Show Contacts
 
